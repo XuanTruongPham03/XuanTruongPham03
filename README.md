@@ -8,10 +8,7 @@
         <li>🤔 &nbsp; Aspiring to become a Java Developer</li>
         <li>   &nbsp; Contact me <a href="https://github.com/XuanTruongPham03/XuanTruongPham03/issues">here</li>
        </ul>
-       <p>
-         <br>
-            <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=XuanTruongPham03&show_icons=true&theme=dark" />
-       </p>
+      
      <h2> 🛠 &nbsp;Tech Stack</h2>
      <div style="display: flex; flex-wrap: wrap;">
     <div style="flex: 50%; padding: 10px;">
