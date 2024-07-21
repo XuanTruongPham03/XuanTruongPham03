@@ -11,7 +11,6 @@
        <p>
          <br>
             <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=XuanTruongPham03&show_icons=true&theme=dark" />
-          <!-- <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=XuanTruongPham03&layout=compact&langs_count=8&card_width=320" /> -->
        </p>
      <h2> 🛠 &nbsp;Tech Stack</h2>
      <div style="display: flex; flex-wrap: wrap;">
