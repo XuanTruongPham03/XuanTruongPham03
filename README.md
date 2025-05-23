@@ -5,7 +5,7 @@
       <h2> 💻 &nbsp;About Me </h2>
        <ul>
        <li>📚 Graduated with a Bachelor’s degree in Information Technology from <a href="https://uet.vnu.edu.vn/en/">VNU University of Engineering and Technology (VNU-UET)</li>
-       <li>💼 Currently working as a Firmware Engineer at Samsung R&D Vietnam</li>
+       <li>💼 Currently working as a Firmware Engineer at Samsung R&D Center Vietnam</li>
        </ul>
 <div>
       <h2><b>How to Reach Me</b></h2>
