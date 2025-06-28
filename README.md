@@ -4,7 +4,7 @@
 ![](https://komarev.com/ghpvc/?username=XuanTruongPham03)
       <h2>&#128204; About Me &#128100;</h2>
        <ul>
-       <li>&#128187; Open to **freelance/ partime remote jobs** in **Web/App/Embedded**</li>
+       <li>&#128187; Open to **freelance/partime remote jobs** in **Web/App/Embedded**</li>
        <li>📚 Graduated with a Bachelor’s degree in Information Technology from <a href="https://uet.vnu.edu.vn/en/">VNU University of Engineering and Technology (VNU-UET)</a></li>
        <li>💼 Currently working as a Firmware Engineer at Samsung R&D Center Vietnam</li>
        </ul>
